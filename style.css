@@ -1,0 +1,59 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #ffcccb; /* Warna merah muda muda */
+    color: #8b0000; /* Warna teks merah tua */
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+  }
+  
+  .container {
+    background-color : #fff0f5 ; /* Warna merah muda muda */
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 600px;
+    margin: 50px auto;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    color: #ff1493; /* Warna merah muda cerah */
+  }
+  
+  p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
+  
+  .gambar-lucu img {
+    width: 200px;
+    height: auto;
+    margin: 20px 0;
+    border-radius: 10px;
+  }
+  
+  button {
+    background-color: #ff69b4; /* Warna merah muda */
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #ff1493; /* Warna merah muda lebih gelap */
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  #pesan-rahasia {
+    font-size: 1.5rem;
+    color: #ff1493;
+    margin-top: 20px;
+  }
